@@ -1,14 +1,14 @@
 {
-  "main.css": "/orangesite/static/css/main.ab6d55c9.chunk.css",
-  "main.js": "/orangesite/static/js/main.9e5d9606.chunk.js",
-  "main.js.map": "/orangesite/static/js/main.9e5d9606.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/orangesite/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/orangesite/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/orangesite/static/js/runtime~main.d6463ce8.js",
-  "runtime~main.js.map": "/orangesite/static/js/runtime~main.d6463ce8.js.map",
-  "static/media/orange-logo.png": "/orangesite/static/media/orange-logo.1e744177.png",
-  "static/css/main.ab6d55c9.chunk.css.map": "/orangesite/static/css/main.ab6d55c9.chunk.css.map",
-  "index.html": "/orangesite/index.html",
-  "precache-manifest.b81167911732e4779b7c146148c44640.js": "/orangesite/precache-manifest.b81167911732e4779b7c146148c44640.js",
-  "service-worker.js": "/orangesite/service-worker.js"
+  "main.css": "/static/css/main.ab6d55c9.chunk.css",
+  "main.js": "/static/js/main.c62f502a.chunk.js",
+  "main.js.map": "/static/js/main.c62f502a.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/orange-logo.png": "/static/media/orange-logo.1e744177.png",
+  "static/css/main.ab6d55c9.chunk.css.map": "/static/css/main.ab6d55c9.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.bf11d6960719194a2eef823ba071b8ac.js": "/precache-manifest.bf11d6960719194a2eef823ba071b8ac.js",
+  "service-worker.js": "/service-worker.js"
 }
