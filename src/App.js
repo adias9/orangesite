@@ -9,9 +9,9 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            A digital media orangization.<br/>
-            Our Focus = Freshly squeezed AR and VR production.<br/>
-            Other Capabilities = Web and Mobile development.<br/>
+            A freshly squeezed digital media orangization.<br/>
+            <b>Focus</b> = AR and VR production.<br/>
+            <b>Other</b> = Web and Mobile.<br/>
           </p>
           <a
             className="App-link"
