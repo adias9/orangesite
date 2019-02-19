@@ -9,7 +9,9 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Freshly squeezed AR and VR content production. <br/>
+            A digital media orangization.<br/>
+            Our Focus = Freshly squeezed AR and VR production.<br/>
+            Other Capabilities = Web and Mobile development.<br/>
           </p>
           <a
             className="App-link"
