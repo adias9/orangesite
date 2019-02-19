@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.aeeb1a72.chunk.css",
-  "main.js": "/static/js/main.d46b995f.chunk.js",
-  "main.js.map": "/static/js/main.d46b995f.chunk.js.map",
+  "main.js": "/static/js/main.f6cee0a8.chunk.js",
+  "main.js.map": "/static/js/main.f6cee0a8.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -9,6 +9,6 @@
   "static/media/orange-logo.png": "/static/media/orange-logo.1e744177.png",
   "static/css/main.aeeb1a72.chunk.css.map": "/static/css/main.aeeb1a72.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.6e420dd6d4f7596917c7211f2be717fd.js": "/precache-manifest.6e420dd6d4f7596917c7211f2be717fd.js",
+  "precache-manifest.04c131983ccb046364896127182c8aad.js": "/precache-manifest.04c131983ccb046364896127182c8aad.js",
   "service-worker.js": "/service-worker.js"
 }
