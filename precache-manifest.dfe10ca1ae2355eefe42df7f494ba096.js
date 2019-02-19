@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c62f502a76f17f4f16f2",
-    "url": "/static/css/main.ab6d55c9.chunk.css"
+    "revision": "16b20d67d1d8825a4163",
+    "url": "/static/css/main.aeeb1a72.chunk.css"
   },
   {
-    "revision": "c62f502a76f17f4f16f2",
-    "url": "/static/js/main.c62f502a.chunk.js"
+    "revision": "16b20d67d1d8825a4163",
+    "url": "/static/js/main.16b20d67.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/orange-logo.1e744177.png"
   },
   {
-    "revision": "c4f774281facbe1532da42dc8ae11328",
+    "revision": "934ac236c64dbc058f9c9ec4d856ce2a",
     "url": "/index.html"
   }
 ];
